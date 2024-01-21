@@ -10,7 +10,8 @@ To run the FAT16 reader:
 ![image](https://github.com/yahnyshc/fat16FileReader/assets/143096926/fd109f8e-c401-4c0a-80bb-a82c1fc665af)
 
 Running some commands:
-![image](https://github.com/yahnyshc/fat16FileReader/assets/143096926/48c1e319-4de7-413b-9b71-08b8bdaa0238)
+![image](https://github.com/yahnyshc/fat16FileReader/assets/143096926/bd445ab6-b25b-43f5-bc2e-a2ffdfe2096d)
+
 
 
 
