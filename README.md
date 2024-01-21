@@ -1,4 +1,4 @@
-fat16FileReader
+# fat16FileReader
 
 To run the FAT16 reader:
 1) Rename your fat16 image into "fat16.img".
