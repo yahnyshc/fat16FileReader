@@ -7,5 +7,10 @@ To run the FAT16 reader:
 4) Then run ./FileSystem to  enter the file reader shell.
 5) Once you are in the shell, run help to see supported commands:
 
+![image](https://github.com/yahnyshc/fat16FileReader/assets/143096926/fd109f8e-c401-4c0a-80bb-a82c1fc665af)
+
+Running some commands:
+![image](https://github.com/yahnyshc/fat16FileReader/assets/143096926/48c1e319-4de7-413b-9b71-08b8bdaa0238)
+
 
 
